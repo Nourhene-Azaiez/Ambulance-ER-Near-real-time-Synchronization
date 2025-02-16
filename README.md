@@ -30,7 +30,7 @@ Ambulance-ER-Near-real-time-Synchronization/
 ├── assets/
 │   └── styles.css               # CSS for web interface
 └── utils/
-    ├── Generator.py             # Generates mock ambulance audio (for testing)
+    ├── Generator.py             # Generates a global patient's report and treatment recommendations
     ├── Processor.py             # Processes transcribed text for analysis
     ├── Summarizer.py            # Summarizes patient situation & emergency level
     └── Transcripter.py          # Converts audio to text using ASR
