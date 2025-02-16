@@ -1,0 +1,20 @@
+.scroll-container {
+    max-height: 80vh; /* Prevents results from taking full screen */
+    overflow-y: auto;
+    z-index: 1;
+}
+.stMainBlockContainer {
+    color: rgb(49, 51, 63);
+    color-scheme: light;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 7rem 2rem 12rem;
+    max-width:initial;
+    flex-direction: column;
+    align-content: center;
+}
+
+.stColumn{
+    padding: 15px;
+    text-align: justify;
+}
