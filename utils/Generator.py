@@ -1,4 +1,5 @@
-import sys
+# Generator.py
+
 from langchain.embeddings import HuggingFaceEmbeddings
 from langchain_pinecone.vectorstores import PineconeVectorStore
 from langchain_groq import ChatGroq

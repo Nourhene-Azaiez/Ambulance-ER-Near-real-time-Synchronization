@@ -1,3 +1,5 @@
+# Processor.py
+
 from utils.Transcripter import Transcripter
 from utils.Summarizer import SummaryGenerator
 from utils.Generator import generator

@@ -1,4 +1,5 @@
-import os
+# Transcripter.py
+
 from groq import Groq
 
 class Transcripter:

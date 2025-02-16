@@ -1,4 +1,5 @@
-import os
+# Summarizer.py
+
 from groq import Groq
 
 class SummaryGenerator:
