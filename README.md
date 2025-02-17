@@ -1,4 +1,4 @@
-# 🚑 Ambulance-ER-PreArrival-Sync-Powered-by-LLM
+# 🚑 Ambulance-ER-Near-real-time-Synchronization
 
 ## 🏥 Project Overview
 
